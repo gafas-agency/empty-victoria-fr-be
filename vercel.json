@@ -1,1762 +1,1762 @@
 {
   "redirects": [
     {
-      "source": "https://victoria-bijoux.be/",
+      "source": "/",
       "destination": "https://victoria-benelux.com/fr-be/",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/a-propos-de-victoria",
+      "source": "/a-propos-de-victoria",
       "destination": "https://victoria-benelux.com/fr-be/a-propos-de-victoria",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-aca31907",
+      "source": "/accessoire/essentia-aca31907",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-aca31907",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-aca32007",
+      "source": "/accessoire/essentia-aca32007",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-aca32007",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-aca68707",
+      "source": "/accessoire/essentia-aca68707",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-aca68707",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-aca82443",
+      "source": "/accessoire/essentia-aca82443",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-aca82443",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-aca82543",
+      "source": "/accessoire/essentia-aca82543",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-aca82543",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-magnetgd",
+      "source": "/accessoire/essentia-magnetgd",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-magnetgd",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-magnetpk",
+      "source": "/accessoire/essentia-magnetpk",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-magnetpk",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-magnetst",
+      "source": "/accessoire/essentia-magnetst",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-magnetst",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-pousag",
+      "source": "/accessoire/essentia-pousag",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-pousag",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-pouspk",
+      "source": "/accessoire/essentia-pouspk",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-pouspk",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-pouspo",
+      "source": "/accessoire/essentia-pouspo",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-pouspo",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/accessoire/essentia-pousst",
+      "source": "/accessoire/essentia-pousst",
       "destination": "https://victoria-benelux.com/fr-be/accessoire/essentia-pousst",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/alia-cz299",
+      "source": "/bague/alia-cz299",
       "destination": "https://victoria-benelux.com/fr-be/bague/alia-cz299",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/aria-cz323",
+      "source": "/bague/aria-cz323",
       "destination": "https://victoria-benelux.com/fr-be/bague/aria-cz323",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/candice-cz306",
+      "source": "/bague/candice-cz306",
       "destination": "https://victoria-benelux.com/fr-be/bague/candice-cz306",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/chloé-cz296",
+      "source": "/bague/chloé-cz296",
       "destination": "https://victoria-benelux.com/fr-be/bague/chloe-cz296",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/freya-al227",
+      "source": "/bague/freya-al227",
       "destination": "https://victoria-benelux.com/fr-be/bague/freya-al227",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/grace-cz310",
+      "source": "/bague/grace-cz310",
       "destination": "https://victoria-benelux.com/fr-be/bague/grace-cz310",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/juli-al226",
+      "source": "/bague/juli-al226",
       "destination": "https://victoria-benelux.com/fr-be/bague/juli-al226",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/laurence-rz132",
+      "source": "/bague/laurence-rz132",
       "destination": "https://victoria-benelux.com/fr-be/bague/laurence-rz132",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/malu-al240",
+      "source": "/bague/malu-al240",
       "destination": "https://victoria-benelux.com/fr-be/bague/malu-al240",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/nana-cz317",
+      "source": "/bague/nana-cz317",
       "destination": "https://victoria-benelux.com/fr-be/bague/nana-cz317",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/nori-al235",
+      "source": "/bague/nori-al235",
       "destination": "https://victoria-benelux.com/fr-be/bague/nori-al235",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/rosita-cz314",
+      "source": "/bague/rosita-cz314",
       "destination": "https://victoria-benelux.com/fr-be/bague/rosita-cz314",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bague/venice-sz122",
+      "source": "/bague/venice-sz122",
       "destination": "https://victoria-benelux.com/fr-be/bague/venice-sz122",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/alani-cz311",
+      "source": "/bagues/alani-cz311",
       "destination": "https://victoria-benelux.com/fr-be/bagues/alani-cz311",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/alani-cz316",
+      "source": "/bagues/alani-cz316",
       "destination": "https://victoria-benelux.com/fr-be/bagues/alani-cz316",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/alia-cz299",
+      "source": "/bagues/alia-cz299",
       "destination": "https://victoria-benelux.com/fr-be/bagues/alia-cz299",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/aria-cz323",
+      "source": "/bagues/aria-cz323",
       "destination": "https://victoria-benelux.com/fr-be/bagues/aria-cz323",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/aya-al238",
+      "source": "/bagues/aya-al238",
       "destination": "https://victoria-benelux.com/fr-be/bagues/aya-al238",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/blanche-al218",
+      "source": "/bagues/blanche-al218",
       "destination": "https://victoria-benelux.com/fr-be/bagues/blanche-al218",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/candice-cz306",
+      "source": "/bagues/candice-cz306",
       "destination": "https://victoria-benelux.com/fr-be/bagues/candice-cz306",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/chloé-cz296",
+      "source": "/bagues/chloé-cz296",
       "destination": "https://victoria-benelux.com/fr-be/bagues/chloe-cz296",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/eline-rz114",
+      "source": "/bagues/eline-rz114",
       "destination": "https://victoria-benelux.com/fr-be/bagues/eline-rz114",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/fae-sz123",
+      "source": "/bagues/fae-sz123",
       "destination": "https://victoria-benelux.com/fr-be/bagues/fae-sz123",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/freya-al227",
+      "source": "/bagues/freya-al227",
       "destination": "https://victoria-benelux.com/fr-be/bagues/freya-al227",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/freya-rz116",
+      "source": "/bagues/freya-rz116",
       "destination": "https://victoria-benelux.com/fr-be/bagues/freya-rz116",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/garance-cz315",
+      "source": "/bagues/garance-cz315",
       "destination": "https://victoria-benelux.com/fr-be/bagues/garance-cz315",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/grace-cz310",
+      "source": "/bagues/grace-cz310",
       "destination": "https://victoria-benelux.com/fr-be/bagues/grace-cz310",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/ida-rz148",
+      "source": "/bagues/ida-rz148",
       "destination": "https://victoria-benelux.com/fr-be/bagues/ida-rz148",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/juli-al226",
+      "source": "/bagues/juli-al226",
       "destination": "https://victoria-benelux.com/fr-be/bagues/juli-al226",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/laurence-rz132",
+      "source": "/bagues/laurence-rz132",
       "destination": "https://victoria-benelux.com/fr-be/bagues/laurence-rz132",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/mabelle-al224",
+      "source": "/bagues/mabelle-al224",
       "destination": "https://victoria-benelux.com/fr-be/bagues/mabelle-al224",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/malu-al240",
+      "source": "/bagues/malu-al240",
       "destination": "https://victoria-benelux.com/fr-be/bagues/malu-al240",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/maya-cz322",
+      "source": "/bagues/maya-cz322",
       "destination": "https://victoria-benelux.com/fr-be/bagues/maya-cz322",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/mona-cz313",
+      "source": "/bagues/mona-cz313",
       "destination": "https://victoria-benelux.com/fr-be/bagues/mona-cz313",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/nana-cz317",
+      "source": "/bagues/nana-cz317",
       "destination": "https://victoria-benelux.com/fr-be/bagues/nana-cz317",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/nori-al235",
+      "source": "/bagues/nori-al235",
       "destination": "https://victoria-benelux.com/fr-be/bagues/nori-al235",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/océane-rz097",
+      "source": "/bagues/océane-rz097",
       "destination": "https://victoria-benelux.com/fr-be/bagues/oceane-rz097",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/otilia-cz319",
+      "source": "/bagues/otilia-cz319",
       "destination": "https://victoria-benelux.com/fr-be/bagues/otilia-cz319",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/renée-cz309",
+      "source": "/bagues/renée-cz309",
       "destination": "https://victoria-benelux.com/fr-be/bagues/renee-cz309",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/romy-rz134",
+      "source": "/bagues/romy-rz134",
       "destination": "https://victoria-benelux.com/fr-be/bagues/romy-rz134",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/rosita-cz314",
+      "source": "/bagues/rosita-cz314",
       "destination": "https://victoria-benelux.com/fr-be/bagues/rosita-cz314",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/siena-al234",
+      "source": "/bagues/siena-al234",
       "destination": "https://victoria-benelux.com/fr-be/bagues/siena-al234",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/venice-sz122",
+      "source": "/bagues/venice-sz122",
       "destination": "https://victoria-benelux.com/fr-be/bagues/venice-sz122",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/viola-rz144",
+      "source": "/bagues/viola-rz144",
       "destination": "https://victoria-benelux.com/fr-be/bagues/viola-rz144",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/viola-rz145",
+      "source": "/bagues/viola-rz145",
       "destination": "https://victoria-benelux.com/fr-be/bagues/viola-rz145",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bagues/yulia-rz150",
+      "source": "/bagues/yulia-rz150",
       "destination": "https://victoria-benelux.com/fr-be/bagues/yulia-rz150",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-aca31907",
+      "source": "/basic/essentia-aca31907",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-aca31907",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-aca32007",
+      "source": "/basic/essentia-aca32007",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-aca32007",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-aca68707",
+      "source": "/basic/essentia-aca68707",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-aca68707",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-aca82443",
+      "source": "/basic/essentia-aca82443",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-aca82443",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-aca82543",
+      "source": "/basic/essentia-aca82543",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-aca82543",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-magnetgd",
+      "source": "/basic/essentia-magnetgd",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-magnetgd",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-magnetpk",
+      "source": "/basic/essentia-magnetpk",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-magnetpk",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-magnetst",
+      "source": "/basic/essentia-magnetst",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-magnetst",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-pousag",
+      "source": "/basic/essentia-pousag",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-pousag",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-pouspk",
+      "source": "/basic/essentia-pouspk",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-pouspk",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-pouspo",
+      "source": "/basic/essentia-pouspo",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-pouspo",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/basic/essentia-pousst",
+      "source": "/basic/essentia-pousst",
       "destination": "https://victoria-benelux.com/fr-be/basic/essentia-pousst",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/adele-ab84300",
+      "source": "/boucles-d-oreilles/adele-ab84300",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/adele-ab84300",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/alani-ab83500",
+      "source": "/boucles-d-oreilles/alani-ab83500",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/alani-ab83500",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/alexa-ab69800",
+      "source": "/boucles-d-oreilles/alexa-ab69800",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/alexa-ab69800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/aria-ab87400",
+      "source": "/boucles-d-oreilles/aria-ab87400",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/aria-ab87400",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/aya-ab84600",
+      "source": "/boucles-d-oreilles/aya-ab84600",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/aya-ab84600",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/bali-ab87300",
+      "source": "/boucles-d-oreilles/bali-ab87300",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/bali-ab87300",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/blanche-ay08600",
+      "source": "/boucles-d-oreilles/blanche-ay08600",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/blanche-ay08600",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/chloé-ab74800",
+      "source": "/boucles-d-oreilles/chloé-ab74800",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/chloe-ab74800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/elin-ab87900",
+      "source": "/boucles-d-oreilles/elin-ab87900",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/elin-ab87900",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/ella-ab81800",
+      "source": "/boucles-d-oreilles/ella-ab81800",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/ella-ab81800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/evie-ab74300",
+      "source": "/boucles-d-oreilles/evie-ab74300",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/evie-ab74300",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/garance-ab84700",
+      "source": "/boucles-d-oreilles/garance-ab84700",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/garance-ab84700",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/grace-ab82700",
+      "source": "/boucles-d-oreilles/grace-ab82700",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/grace-ab82700",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/ida-ab82500",
+      "source": "/boucles-d-oreilles/ida-ab82500",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/ida-ab82500",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/inae-ab77000",
+      "source": "/boucles-d-oreilles/inae-ab77000",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/inae-ab77000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/leia-ab76400",
+      "source": "/boucles-d-oreilles/leia-ab76400",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/leia-ab76400",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/lili-ab78800",
+      "source": "/boucles-d-oreilles/lili-ab78800",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/lili-ab78800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/lucy-ab85900",
+      "source": "/boucles-d-oreilles/lucy-ab85900",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/lucy-ab85900",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/mabelle-ab60300",
+      "source": "/boucles-d-oreilles/mabelle-ab60300",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/mabelle-ab60300",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/mae-ab87200",
+      "source": "/boucles-d-oreilles/mae-ab87200",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/mae-ab87200",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/malu-ab86800",
+      "source": "/boucles-d-oreilles/malu-ab86800",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/malu-ab86800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/maya-ab84000",
+      "source": "/boucles-d-oreilles/maya-ab84000",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/maya-ab84000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/maya-ab84400",
+      "source": "/boucles-d-oreilles/maya-ab84400",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/maya-ab84400",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/nalani-ab86700",
+      "source": "/boucles-d-oreilles/nalani-ab86700",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/nalani-ab86700",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/nana-ab82800",
+      "source": "/boucles-d-oreilles/nana-ab82800",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/nana-ab82800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/nana-ay08800",
+      "source": "/boucles-d-oreilles/nana-ay08800",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/nana-ay08800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/neva-ab69900",
+      "source": "/boucles-d-oreilles/neva-ab69900",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/neva-ab69900",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/nia-ab86300",
+      "source": "/boucles-d-oreilles/nia-ab86300",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/nia-ab86300",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/nia-ab86400",
+      "source": "/boucles-d-oreilles/nia-ab86400",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/nia-ab86400",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/odile-par3100",
+      "source": "/boucles-d-oreilles/odile-par3100",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/odile-par3100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/otilia-ab84900",
+      "source": "/boucles-d-oreilles/otilia-ab84900",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/otilia-ab84900",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/perla-ab80200",
+      "source": "/boucles-d-oreilles/perla-ab80200",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/perla-ab80200",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/rachelle-ay08100",
+      "source": "/boucles-d-oreilles/rachelle-ay08100",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/rachelle-ay08100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/rebecca-ab80600",
+      "source": "/boucles-d-oreilles/rebecca-ab80600",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/rebecca-ab80600",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/reeva-ab40500",
+      "source": "/boucles-d-oreilles/reeva-ab40500",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/reeva-ab40500",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/romy-ab82900",
+      "source": "/boucles-d-oreilles/romy-ab82900",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/romy-ab82900",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/rosita-ab83900",
+      "source": "/boucles-d-oreilles/rosita-ab83900",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/rosita-ab83900",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/siena-ay08060",
+      "source": "/boucles-d-oreilles/siena-ay08060",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/siena-ay08060",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/sienna-ab67700",
+      "source": "/boucles-d-oreilles/sienna-ab67700",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/sienna-ab67700",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/suri-ab74400",
+      "source": "/boucles-d-oreilles/suri-ab74400",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/suri-ab74400",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/viola-ab80500",
+      "source": "/boucles-d-oreilles/viola-ab80500",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/viola-ab80500",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/yasmine-ay08400",
+      "source": "/boucles-d-oreilles/yasmine-ay08400",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/yasmine-ay08400",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/yulia-ab86100",
+      "source": "/boucles-d-oreilles/yulia-ab86100",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/yulia-ab86100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/zara-ab81700",
+      "source": "/boucles-d-oreilles/zara-ab81700",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/zara-ab81700",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/boucles-d-oreilles/zita-ab87100",
+      "source": "/boucles-d-oreilles/zita-ab87100",
       "destination": "https://victoria-benelux.com/fr-be/boucles-d-oreilles/zita-ab87100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/adele-aca78821",
+      "source": "/bracelet/adele-aca78821",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/adele-aca78821",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/austin-aca81316",
+      "source": "/bracelet/austin-aca81316",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/austin-aca81316",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/blake-aca76000",
+      "source": "/bracelet/blake-aca76000",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/blake-aca76000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/blossom-aca829",
+      "source": "/bracelet/blossom-aca829",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/blossom-aca829",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/boaz-aca82300",
+      "source": "/bracelet/boaz-aca82300",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/boaz-aca82300",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/bowie-aca686",
+      "source": "/bracelet/bowie-aca686",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/bowie-aca686",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/césar-aca822br",
+      "source": "/bracelet/césar-aca822br",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/cesar-aca822br",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/fae-aca82800",
+      "source": "/bracelet/fae-aca82800",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/fae-aca82800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/flores-aca81521",
+      "source": "/bracelet/flores-aca81521",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/flores-aca81521",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/ida-aca747br",
+      "source": "/bracelet/ida-aca747br",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/ida-aca747br",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/jasper-aca74200",
+      "source": "/bracelet/jasper-aca74200",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/jasper-aca74200",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/jett-aca74100",
+      "source": "/bracelet/jett-aca74100",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/jett-aca74100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/laly-aca60815",
+      "source": "/bracelet/laly-aca60815",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/laly-aca60815",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/lana-aca72415",
+      "source": "/bracelet/lana-aca72415",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/lana-aca72415",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/lewis-aca668",
+      "source": "/bracelet/lewis-aca668",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/lewis-aca668",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/lucy-aca78521",
+      "source": "/bracelet/lucy-aca78521",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/lucy-aca78521",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/mabelle-aca61620",
+      "source": "/bracelet/mabelle-aca61620",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/mabelle-aca61620",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/mae-aca834",
+      "source": "/bracelet/mae-aca834",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/mae-aca834",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/malo-aca838",
+      "source": "/bracelet/malo-aca838",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/malo-aca838",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/malo-aca839",
+      "source": "/bracelet/malo-aca839",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/malo-aca839",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/memphis-aca821br",
+      "source": "/bracelet/memphis-aca821br",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/memphis-aca821br",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/mona-aca78100",
+      "source": "/bracelet/mona-aca78100",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/mona-aca78100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/odette-aca836",
+      "source": "/bracelet/odette-aca836",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/odette-aca836",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/ottilia-aca614",
+      "source": "/bracelet/ottilia-aca614",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/ottilia-aca614",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/perla-aca71021",
+      "source": "/bracelet/perla-aca71021",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/perla-aca71021",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/santiago-aca820br",
+      "source": "/bracelet/santiago-aca820br",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/santiago-aca820br",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/sienna-aca61820",
+      "source": "/bracelet/sienna-aca61820",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/sienna-aca61820",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/virgile-aca669",
+      "source": "/bracelet/virgile-aca669",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/virgile-aca669",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/yasmine-aca79021",
+      "source": "/bracelet/yasmine-aca79021",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/yasmine-aca79021",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelet/zita-aca83321",
+      "source": "/bracelet/zita-aca83321",
       "destination": "https://victoria-benelux.com/fr-be/bracelet/zita-aca83321",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/adele-aca78821",
+      "source": "/bracelets/adele-aca78821",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/adele-aca78821",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/austin-aca81316",
+      "source": "/bracelets/austin-aca81316",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/austin-aca81316",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/bali-aca83521",
+      "source": "/bracelets/bali-aca83521",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/bali-aca83521",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/blake-aca76000",
+      "source": "/bracelets/blake-aca76000",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/blake-aca76000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/blossom-aca829",
+      "source": "/bracelets/blossom-aca829",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/blossom-aca829",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/boaz-aca82300",
+      "source": "/bracelets/boaz-aca82300",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/boaz-aca82300",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/bowie-aca686",
+      "source": "/bracelets/bowie-aca686",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/bowie-aca686",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/camille-aca79200",
+      "source": "/bracelets/camille-aca79200",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/camille-aca79200",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/candice-aca67260",
+      "source": "/bracelets/candice-aca67260",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/candice-aca67260",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/césar-aca822br",
+      "source": "/bracelets/césar-aca822br",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/cesar-aca822br",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/chloé-aca62720",
+      "source": "/bracelets/chloé-aca62720",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/chloe-aca62720",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/elin-aca83722",
+      "source": "/bracelets/elin-aca83722",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/elin-aca83722",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/ella-aca72921",
+      "source": "/bracelets/ella-aca72921",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/ella-aca72921",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/ella-aca73719",
+      "source": "/bracelets/ella-aca73719",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/ella-aca73719",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/fae-aca82800",
+      "source": "/bracelets/fae-aca82800",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/fae-aca82800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/felire-aca72218",
+      "source": "/bracelets/felire-aca72218",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/felire-aca72218",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/flores-aca81521",
+      "source": "/bracelets/flores-aca81521",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/flores-aca81521",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/grace-aca74420",
+      "source": "/bracelets/grace-aca74420",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/grace-aca74420",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/ida-aca747br",
+      "source": "/bracelets/ida-aca747br",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/ida-aca747br",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/jasper-aca74200",
+      "source": "/bracelets/jasper-aca74200",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/jasper-aca74200",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/jett-aca74100",
+      "source": "/bracelets/jett-aca74100",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/jett-aca74100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/juli-aca629",
+      "source": "/bracelets/juli-aca629",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/juli-aca629",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/laly-aca60815",
+      "source": "/bracelets/laly-aca60815",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/laly-aca60815",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/lana-aca72415",
+      "source": "/bracelets/lana-aca72415",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/lana-aca72415",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/laurence-aca77800",
+      "source": "/bracelets/laurence-aca77800",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/laurence-aca77800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/lewis-aca668",
+      "source": "/bracelets/lewis-aca668",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/lewis-aca668",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/lucy-aca78521",
+      "source": "/bracelets/lucy-aca78521",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/lucy-aca78521",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/mabelle-aca61620",
+      "source": "/bracelets/mabelle-aca61620",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/mabelle-aca61620",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/mae-aca834",
+      "source": "/bracelets/mae-aca834",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/mae-aca834",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/malo-aca838",
+      "source": "/bracelets/malo-aca838",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/malo-aca838",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/malo-aca839",
+      "source": "/bracelets/malo-aca839",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/malo-aca839",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/malu-aca83221",
+      "source": "/bracelets/malu-aca83221",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/malu-aca83221",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/maya-aca78200",
+      "source": "/bracelets/maya-aca78200",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/maya-aca78200",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/memphis-aca821br",
+      "source": "/bracelets/memphis-aca821br",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/memphis-aca821br",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/mona-aca78100",
+      "source": "/bracelets/mona-aca78100",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/mona-aca78100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/nana-aca767br",
+      "source": "/bracelets/nana-aca767br",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/nana-aca767br",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/nori-aca763br",
+      "source": "/bracelets/nori-aca763br",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/nori-aca763br",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/océane-aca688",
+      "source": "/bracelets/océane-aca688",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/oceane-aca688",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/odette-aca836",
+      "source": "/bracelets/odette-aca836",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/odette-aca836",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/ottilia-aca614",
+      "source": "/bracelets/ottilia-aca614",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/ottilia-aca614",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/perla-aca71021",
+      "source": "/bracelets/perla-aca71021",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/perla-aca71021",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/perla-aca748",
+      "source": "/bracelets/perla-aca748",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/perla-aca748",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/rachelle-aca707br",
+      "source": "/bracelets/rachelle-aca707br",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/rachelle-aca707br",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/rebecca-aca71321",
+      "source": "/bracelets/rebecca-aca71321",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/rebecca-aca71321",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/renée-aca78400",
+      "source": "/bracelets/renée-aca78400",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/renee-aca78400",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/rosita-aca78721",
+      "source": "/bracelets/rosita-aca78721",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/rosita-aca78721",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/rosita-aca79121",
+      "source": "/bracelets/rosita-aca79121",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/rosita-aca79121",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/santiago-aca820br",
+      "source": "/bracelets/santiago-aca820br",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/santiago-aca820br",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/sienna-aca61820",
+      "source": "/bracelets/sienna-aca61820",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/sienna-aca61820",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/suri-aca698",
+      "source": "/bracelets/suri-aca698",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/suri-aca698",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/virgile-aca669",
+      "source": "/bracelets/virgile-aca669",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/virgile-aca669",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/yasmine-aca79021",
+      "source": "/bracelets/yasmine-aca79021",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/yasmine-aca79021",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/yulia-aca73900",
+      "source": "/bracelets/yulia-aca73900",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/yulia-aca73900",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/yulia-aca81721",
+      "source": "/bracelets/yulia-aca81721",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/yulia-aca81721",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/zara-aca72821",
+      "source": "/bracelets/zara-aca72821",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/zara-aca72821",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/bracelets/zita-aca83321",
+      "source": "/bracelets/zita-aca83321",
       "destination": "https://victoria-benelux.com/fr-be/bracelets/zita-aca83321",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/chaine-de-cheville/bali-aca83527",
+      "source": "/chaine-de-cheville/bali-aca83527",
       "destination": "https://victoria-benelux.com/fr-be/chaine-de-cheville/bali-aca83527",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/chaine-de-cheville/elia-aca84527",
+      "source": "/chaine-de-cheville/elia-aca84527",
       "destination": "https://victoria-benelux.com/fr-be/chaine-de-cheville/elia-aca84527",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/chaines-de-cheville/bali-aca83527",
+      "source": "/chaines-de-cheville/bali-aca83527",
       "destination": "https://victoria-benelux.com/fr-be/chaines-de-cheville/bali-aca83527",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/chaines-de-cheville/elia-aca84527",
+      "source": "/chaines-de-cheville/elia-aca84527",
       "destination": "https://victoria-benelux.com/fr-be/chaines-de-cheville/elia-aca84527",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection",
+      "source": "/collection",
       "destination": "https://victoria-benelux.com/fr-be/collection",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/argentee",
+      "source": "/collection/argentee",
       "destination": "https://victoria-benelux.com/fr-be/collection/argentee",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/bagues",
+      "source": "/collection/bagues",
       "destination": "https://victoria-benelux.com/fr-be/collection/bagues",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/basic",
+      "source": "/collection/basic",
       "destination": "https://victoria-benelux.com/fr-be/collection/basic",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/boucles-d-oreilles",
+      "source": "/collection/boucles-d-oreilles",
       "destination": "https://victoria-benelux.com/fr-be/collection/boucles-d-oreilles",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/bracelets",
+      "source": "/collection/bracelets",
       "destination": "https://victoria-benelux.com/fr-be/collection/bracelets",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/chaines-de-cheville",
+      "source": "/collection/chaines-de-cheville",
       "destination": "https://victoria-benelux.com/fr-be/collection/chaines-de-cheville",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/colliers",
+      "source": "/collection/colliers",
       "destination": "https://victoria-benelux.com/fr-be/collection/colliers",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/doree",
+      "source": "/collection/doree",
       "destination": "https://victoria-benelux.com/fr-be/collection/doree",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/enfant",
+      "source": "/collection/enfant",
       "destination": "https://victoria-benelux.com/fr-be/collection/enfant",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/famille",
+      "source": "/collection/famille",
       "destination": "https://victoria-benelux.com/fr-be/collection/famille",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/femme",
+      "source": "/collection/femme",
       "destination": "https://victoria-benelux.com/fr-be/collection/femme",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/homme",
+      "source": "/collection/homme",
       "destination": "https://victoria-benelux.com/fr-be/collection/homme",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/montres",
+      "source": "/collection/montres",
       "destination": "https://victoria-benelux.com/fr-be/collection/montres",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/pendentifs",
+      "source": "/collection/pendentifs",
       "destination": "https://victoria-benelux.com/fr-be/collection/pendentifs",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/printemps-ete",
+      "source": "/collection/printemps-ete",
       "destination": "https://victoria-benelux.com/fr-be/collection/printemps-ete",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/rosee",
+      "source": "/collection/rosee",
       "destination": "https://victoria-benelux.com/fr-be/collection/rosee",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/sales",
+      "source": "/collection/sales",
       "destination": "https://victoria-benelux.com/fr-be/collection/sales",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collection/tous-les-bijoux",
+      "source": "/collection/tous-les-bijoux",
       "destination": "https://victoria-benelux.com/fr-be/collection/tous-les-bijoux",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/alexa-aca79982",
+      "source": "/collier/alexa-aca79982",
       "destination": "https://victoria-benelux.com/fr-be/collier/alexa-aca79982",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/aria-aca83754",
+      "source": "/collier/aria-aca83754",
       "destination": "https://victoria-benelux.com/fr-be/collier/aria-aca83754",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/billie-aca66592",
+      "source": "/collier/billie-aca66592",
       "destination": "https://victoria-benelux.com/fr-be/collier/billie-aca66592",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/camille-aca75582",
+      "source": "/collier/camille-aca75582",
       "destination": "https://victoria-benelux.com/fr-be/collier/camille-aca75582",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/elin-aca83746",
+      "source": "/collier/elin-aca83746",
       "destination": "https://victoria-benelux.com/fr-be/collier/elin-aca83746",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/fae-aca82743",
+      "source": "/collier/fae-aca82743",
       "destination": "https://victoria-benelux.com/fr-be/collier/fae-aca82743",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/felire-aca72240",
+      "source": "/collier/felire-aca72240",
       "destination": "https://victoria-benelux.com/fr-be/collier/felire-aca72240",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/ginger-aca80747",
+      "source": "/collier/ginger-aca80747",
       "destination": "https://victoria-benelux.com/fr-be/collier/ginger-aca80747",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/leia-aca75845",
+      "source": "/collier/leia-aca75845",
       "destination": "https://victoria-benelux.com/fr-be/collier/leia-aca75845",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/malu-aca83250",
+      "source": "/collier/malu-aca83250",
       "destination": "https://victoria-benelux.com/fr-be/collier/malu-aca83250",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/maya-aca78245",
+      "source": "/collier/maya-aca78245",
       "destination": "https://victoria-benelux.com/fr-be/collier/maya-aca78245",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/nalani-aca80541",
+      "source": "/collier/nalani-aca80541",
       "destination": "https://victoria-benelux.com/fr-be/collier/nalani-aca80541",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/renée-aca76160",
+      "source": "/collier/renée-aca76160",
       "destination": "https://victoria-benelux.com/fr-be/collier/renee-aca76160",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/romy-aca77245",
+      "source": "/collier/romy-aca77245",
       "destination": "https://victoria-benelux.com/fr-be/collier/romy-aca77245",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/sienna-aca46182",
+      "source": "/collier/sienna-aca46182",
       "destination": "https://victoria-benelux.com/fr-be/collier/sienna-aca46182",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/collier/yulia-aca84682",
+      "source": "/collier/yulia-aca84682",
       "destination": "https://victoria-benelux.com/fr-be/collier/yulia-aca84682",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/adele-aca78849",
+      "source": "/colliers/adele-aca78849",
       "destination": "https://victoria-benelux.com/fr-be/colliers/adele-aca78849",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/alexa-aca79982",
+      "source": "/colliers/alexa-aca79982",
       "destination": "https://victoria-benelux.com/fr-be/colliers/alexa-aca79982",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/aria-aca83754",
+      "source": "/colliers/aria-aca83754",
       "destination": "https://victoria-benelux.com/fr-be/colliers/aria-aca83754",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/aya-aca79647",
+      "source": "/colliers/aya-aca79647",
       "destination": "https://victoria-benelux.com/fr-be/colliers/aya-aca79647",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/bali-aca83545",
+      "source": "/colliers/bali-aca83545",
       "destination": "https://victoria-benelux.com/fr-be/colliers/bali-aca83545",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/billie-aca66592",
+      "source": "/colliers/billie-aca66592",
       "destination": "https://victoria-benelux.com/fr-be/colliers/billie-aca66592",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/blake-aca76046",
+      "source": "/colliers/blake-aca76046",
       "destination": "https://victoria-benelux.com/fr-be/colliers/blake-aca76046",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/camille-aca75582",
+      "source": "/colliers/camille-aca75582",
       "destination": "https://victoria-benelux.com/fr-be/colliers/camille-aca75582",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/chloé-aca80980",
+      "source": "/colliers/chloé-aca80980",
       "destination": "https://victoria-benelux.com/fr-be/colliers/chloe-aca80980",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/elin-aca83746",
+      "source": "/colliers/elin-aca83746",
       "destination": "https://victoria-benelux.com/fr-be/colliers/elin-aca83746",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/ella-aca72943",
+      "source": "/colliers/ella-aca72943",
       "destination": "https://victoria-benelux.com/fr-be/colliers/ella-aca72943",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/essentia-aca08638",
+      "source": "/colliers/essentia-aca08638",
       "destination": "https://victoria-benelux.com/fr-be/colliers/essentia-aca08638",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/essentia-aca438",
+      "source": "/colliers/essentia-aca438",
       "destination": "https://victoria-benelux.com/fr-be/colliers/essentia-aca438",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/essentia-aca439",
+      "source": "/colliers/essentia-aca439",
       "destination": "https://victoria-benelux.com/fr-be/colliers/essentia-aca439",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/essentia-aca526",
+      "source": "/colliers/essentia-aca526",
       "destination": "https://victoria-benelux.com/fr-be/colliers/essentia-aca526",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/evie-aca60740",
+      "source": "/colliers/evie-aca60740",
       "destination": "https://victoria-benelux.com/fr-be/colliers/evie-aca60740",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/fae-aca82743",
+      "source": "/colliers/fae-aca82743",
       "destination": "https://victoria-benelux.com/fr-be/colliers/fae-aca82743",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/felire-aca72240",
+      "source": "/colliers/felire-aca72240",
       "destination": "https://victoria-benelux.com/fr-be/colliers/felire-aca72240",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/garance-aca80244",
+      "source": "/colliers/garance-aca80244",
       "destination": "https://victoria-benelux.com/fr-be/colliers/garance-aca80244",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/ginger-aca80747",
+      "source": "/colliers/ginger-aca80747",
       "destination": "https://victoria-benelux.com/fr-be/colliers/ginger-aca80747",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/grace-aca74447",
+      "source": "/colliers/grace-aca74447",
       "destination": "https://victoria-benelux.com/fr-be/colliers/grace-aca74447",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/ida-aca75747",
+      "source": "/colliers/ida-aca75747",
       "destination": "https://victoria-benelux.com/fr-be/colliers/ida-aca75747",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/laurence-aca77845",
+      "source": "/colliers/laurence-aca77845",
       "destination": "https://victoria-benelux.com/fr-be/colliers/laurence-aca77845",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/leia-aca65845",
+      "source": "/colliers/leia-aca65845",
       "destination": "https://victoria-benelux.com/fr-be/colliers/leia-aca65845",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/leia-aca75845",
+      "source": "/colliers/leia-aca75845",
       "destination": "https://victoria-benelux.com/fr-be/colliers/leia-aca75845",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/lucy-aca78551",
+      "source": "/colliers/lucy-aca78551",
       "destination": "https://victoria-benelux.com/fr-be/colliers/lucy-aca78551",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/mabelle-aca61645",
+      "source": "/colliers/mabelle-aca61645",
       "destination": "https://victoria-benelux.com/fr-be/colliers/mabelle-aca61645",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/malu-aca83250",
+      "source": "/colliers/malu-aca83250",
       "destination": "https://victoria-benelux.com/fr-be/colliers/malu-aca83250",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/maya-aca78245",
+      "source": "/colliers/maya-aca78245",
       "destination": "https://victoria-benelux.com/fr-be/colliers/maya-aca78245",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/mona-aca78147",
+      "source": "/colliers/mona-aca78147",
       "destination": "https://victoria-benelux.com/fr-be/colliers/mona-aca78147",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/nalani-aca80541",
+      "source": "/colliers/nalani-aca80541",
       "destination": "https://victoria-benelux.com/fr-be/colliers/nalani-aca80541",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/nana-aca76747",
+      "source": "/colliers/nana-aca76747",
       "destination": "https://victoria-benelux.com/fr-be/colliers/nana-aca76747",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/otilia-aca81045",
+      "source": "/colliers/otilia-aca81045",
       "destination": "https://victoria-benelux.com/fr-be/colliers/otilia-aca81045",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/ottilia-aca61448",
+      "source": "/colliers/ottilia-aca61448",
       "destination": "https://victoria-benelux.com/fr-be/colliers/ottilia-aca61448",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/perla-aca71057",
+      "source": "/colliers/perla-aca71057",
       "destination": "https://victoria-benelux.com/fr-be/colliers/perla-aca71057",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/rachelle-aca73845",
+      "source": "/colliers/rachelle-aca73845",
       "destination": "https://victoria-benelux.com/fr-be/colliers/rachelle-aca73845",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/rebecca-aca71358",
+      "source": "/colliers/rebecca-aca71358",
       "destination": "https://victoria-benelux.com/fr-be/colliers/rebecca-aca71358",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/reeva-aca42265",
+      "source": "/colliers/reeva-aca42265",
       "destination": "https://victoria-benelux.com/fr-be/colliers/reeva-aca42265",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/renée-aca76160",
+      "source": "/colliers/renée-aca76160",
       "destination": "https://victoria-benelux.com/fr-be/colliers/renee-aca76160",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/romy-aca77245",
+      "source": "/colliers/romy-aca77245",
       "destination": "https://victoria-benelux.com/fr-be/colliers/romy-aca77245",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/rosita-aca77345",
+      "source": "/colliers/rosita-aca77345",
       "destination": "https://victoria-benelux.com/fr-be/colliers/rosita-aca77345",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/sienna-aca46182",
+      "source": "/colliers/sienna-aca46182",
       "destination": "https://victoria-benelux.com/fr-be/colliers/sienna-aca46182",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/yasmine-aca79043",
+      "source": "/colliers/yasmine-aca79043",
       "destination": "https://victoria-benelux.com/fr-be/colliers/yasmine-aca79043",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/yulia-aca81843",
+      "source": "/colliers/yulia-aca81843",
       "destination": "https://victoria-benelux.com/fr-be/colliers/yulia-aca81843",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/yulia-aca84682",
+      "source": "/colliers/yulia-aca84682",
       "destination": "https://victoria-benelux.com/fr-be/colliers/yulia-aca84682",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/zara-aca72843",
+      "source": "/colliers/zara-aca72843",
       "destination": "https://victoria-benelux.com/fr-be/colliers/zara-aca72843",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/colliers/zara-aca84141",
+      "source": "/colliers/zara-aca84141",
       "destination": "https://victoria-benelux.com/fr-be/colliers/zara-aca84141",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/commande-livraison",
+      "source": "/commande-livraison",
       "destination": "https://victoria-benelux.com/fr-be/commande-livraison",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/contact",
+      "source": "/contact",
       "destination": "https://victoria-benelux.com/fr-be/contact",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/disclaimer",
+      "source": "/disclaimer",
       "destination": "https://victoria-benelux.com/fr-be/disclaimer",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/faq",
+      "source": "/faq",
       "destination": "https://victoria-benelux.com/fr-be/faq",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/garantie-assistance",
+      "source": "/garantie-assistance",
       "destination": "https://victoria-benelux.com/fr-be/garantie-assistance",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/guide-des-tailles",
+      "source": "/guide-des-tailles",
       "destination": "https://victoria-benelux.com/fr-be/guide-des-tailles",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/host",
+      "source": "/host",
       "destination": "https://victoria-benelux.com/fr-be/host",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/host-form",
+      "source": "/host-form",
       "destination": "https://victoria-benelux.com/fr-be/host-form",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/join-us",
+      "source": "/join-us",
       "destination": "https://victoria-benelux.com/fr-be/join-us",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/join-us-form",
+      "source": "/join-us-form",
       "destination": "https://victoria-benelux.com/fr-be/join-us-form",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/label-de-qualite",
+      "source": "/label-de-qualite",
       "destination": "https://victoria-benelux.com/fr-be/label-de-qualite",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montre/cruz-mm60000",
+      "source": "/montre/cruz-mm60000",
       "destination": "https://victoria-benelux.com/fr-be/montre/cruz-mm60000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montre/eden-mm43000",
+      "source": "/montre/eden-mm43000",
       "destination": "https://victoria-benelux.com/fr-be/montre/eden-mm43000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montre/frida-mm55000",
+      "source": "/montre/frida-mm55000",
       "destination": "https://victoria-benelux.com/fr-be/montre/frida-mm55000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montre/jane-mm56000",
+      "source": "/montre/jane-mm56000",
       "destination": "https://victoria-benelux.com/fr-be/montre/jane-mm56000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montre/jill-mm59000",
+      "source": "/montre/jill-mm59000",
       "destination": "https://victoria-benelux.com/fr-be/montre/jill-mm59000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montre/liam-mm54000",
+      "source": "/montre/liam-mm54000",
       "destination": "https://victoria-benelux.com/fr-be/montre/liam-mm54000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montre/michelle-mm58000",
+      "source": "/montre/michelle-mm58000",
       "destination": "https://victoria-benelux.com/fr-be/montre/michelle-mm58000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montre/rosie-mm57000",
+      "source": "/montre/rosie-mm57000",
       "destination": "https://victoria-benelux.com/fr-be/montre/rosie-mm57000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montres/cruz-mm60000",
+      "source": "/montres/cruz-mm60000",
       "destination": "https://victoria-benelux.com/fr-be/montres/cruz-mm60000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montres/eden-mm43000",
+      "source": "/montres/eden-mm43000",
       "destination": "https://victoria-benelux.com/fr-be/montres/eden-mm43000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montres/frida-mm55000",
+      "source": "/montres/frida-mm55000",
       "destination": "https://victoria-benelux.com/fr-be/montres/frida-mm55000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montres/jane-mm56000",
+      "source": "/montres/jane-mm56000",
       "destination": "https://victoria-benelux.com/fr-be/montres/jane-mm56000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montres/jill-mm59000",
+      "source": "/montres/jill-mm59000",
       "destination": "https://victoria-benelux.com/fr-be/montres/jill-mm59000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montres/liam-mm54000",
+      "source": "/montres/liam-mm54000",
       "destination": "https://victoria-benelux.com/fr-be/montres/liam-mm54000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montres/michelle-mm58000",
+      "source": "/montres/michelle-mm58000",
       "destination": "https://victoria-benelux.com/fr-be/montres/michelle-mm58000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/montres/rosie-mm57000",
+      "source": "/montres/rosie-mm57000",
       "destination": "https://victoria-benelux.com/fr-be/montres/rosie-mm57000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/newsletter",
+      "source": "/newsletter",
       "destination": "https://victoria-benelux.com/fr-be/newsletter",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/nouvelles",
+      "source": "/nouvelles",
       "destination": "https://victoria-benelux.com/fr-be/nouvelles",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/nouvelles/commence-chez-victoria-en-octobre-et-reçois-cette-superbe-parure",
+      "source": "/nouvelles/commence-chez-victoria-en-octobre-et-reçois-cette-superbe-parure",
       "destination": "https://victoria-benelux.com/fr-be/nouvelles/commence-chez-victoria-en-octobre-et-reçois-cette-superbe-parure",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/nouvelles/la-race-for-the-cure-passe-au-digital",
+      "source": "/nouvelles/la-race-for-the-cure-passe-au-digital",
       "destination": "https://victoria-benelux.com/fr-be/nouvelles/la-race-for-the-cure-passe-au-digital",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/nouvelles/les-démos-bijoux-victoria-reprennent",
+      "source": "/nouvelles/les-démos-bijoux-victoria-reprennent",
       "destination": "https://victoria-benelux.com/fr-be/nouvelles/les-demos-bijoux-victoria-reprennent",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/nouvelles/notre-journée-portes-ouvertes-2020-a-encore-été-un-grand-succès",
+      "source": "/nouvelles/notre-journée-portes-ouvertes-2020-a-encore-été-un-grand-succès",
       "destination": "https://victoria-benelux.com/fr-be/nouvelles/notre-journee-portes-ouvertes-2020-a-encore-ete-un-grand-succès",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/nouvelles/sales",
+      "source": "/nouvelles/sales",
       "destination": "https://victoria-benelux.com/fr-be/nouvelles/sales",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/nouvelles/soutiens-la-lutte-contre-le-cancer-du-sein-avec-notre-make-up-box",
+      "source": "/nouvelles/soutiens-la-lutte-contre-le-cancer-du-sein-avec-notre-make-up-box",
       "destination": "https://victoria-benelux.com/fr-be/nouvelles/soutiens-la-lutte-contre-le-cancer-du-sein-avec-notre-make-up-box",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/nouvelles/victoria-autrement-la-démo-visio",
+      "source": "/nouvelles/victoria-autrement-la-démo-visio",
       "destination": "https://victoria-benelux.com/fr-be/nouvelles/victoria-autrement-la-demo-visio",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentif/blanche-ap72600",
+      "source": "/pendentif/blanche-ap72600",
       "destination": "https://victoria-benelux.com/fr-be/pendentif/blanche-ap72600",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentif/chloé-ap73900",
+      "source": "/pendentif/chloé-ap73900",
       "destination": "https://victoria-benelux.com/fr-be/pendentif/chloe-ap73900",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentif/eden-ap50100",
+      "source": "/pendentif/eden-ap50100",
       "destination": "https://victoria-benelux.com/fr-be/pendentif/eden-ap50100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentif/eden-ap73800",
+      "source": "/pendentif/eden-ap73800",
       "destination": "https://victoria-benelux.com/fr-be/pendentif/eden-ap73800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentif/isia-ap72200",
+      "source": "/pendentif/isia-ap72200",
       "destination": "https://victoria-benelux.com/fr-be/pendentif/isia-ap72200",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentif/lana-par3000",
+      "source": "/pendentif/lana-par3000",
       "destination": "https://victoria-benelux.com/fr-be/pendentif/lana-par3000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentif/océane-ap72800",
+      "source": "/pendentif/océane-ap72800",
       "destination": "https://victoria-benelux.com/fr-be/pendentif/oceane-ap72800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentif/suri-ap73100",
+      "source": "/pendentif/suri-ap73100",
       "destination": "https://victoria-benelux.com/fr-be/pendentif/suri-ap73100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentif/unicorn-par2700",
+      "source": "/pendentif/unicorn-par2700",
       "destination": "https://victoria-benelux.com/fr-be/pendentif/unicorn-par2700",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentifs/blanche-ap72600",
+      "source": "/pendentifs/blanche-ap72600",
       "destination": "https://victoria-benelux.com/fr-be/pendentifs/blanche-ap72600",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentifs/chloé-ap73900",
+      "source": "/pendentifs/chloé-ap73900",
       "destination": "https://victoria-benelux.com/fr-be/pendentifs/chloe-ap73900",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentifs/eden-ap50100",
+      "source": "/pendentifs/eden-ap50100",
       "destination": "https://victoria-benelux.com/fr-be/pendentifs/eden-ap50100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentifs/eden-ap73800",
+      "source": "/pendentifs/eden-ap73800",
       "destination": "https://victoria-benelux.com/fr-be/pendentifs/eden-ap73800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentifs/isia-ap72200",
+      "source": "/pendentifs/isia-ap72200",
       "destination": "https://victoria-benelux.com/fr-be/pendentifs/isia-ap72200",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentifs/lana-par3000",
+      "source": "/pendentifs/lana-par3000",
       "destination": "https://victoria-benelux.com/fr-be/pendentifs/lana-par3000",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentifs/océane-ap72800",
+      "source": "/pendentifs/océane-ap72800",
       "destination": "https://victoria-benelux.com/fr-be/pendentifs/oceane-ap72800",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentifs/suri-ap73100",
+      "source": "/pendentifs/suri-ap73100",
       "destination": "https://victoria-benelux.com/fr-be/pendentifs/suri-ap73100",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/pendentifs/unicorn-par2700",
+      "source": "/pendentifs/unicorn-par2700",
       "destination": "https://victoria-benelux.com/fr-be/pendentifs/unicorn-par2700",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/postes-vacants",
+      "source": "/postes-vacants",
       "destination": "https://victoria-benelux.com/fr-be/postes-vacants",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/press",
+      "source": "/press",
       "destination": "https://victoria-benelux.com/fr-be/press",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/privacy-policy",
+      "source": "/privacy-policy",
       "destination": "https://victoria-benelux.com/fr-be/privacy-policy",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/product-care",
+      "source": "/product-care",
       "destination": "https://victoria-benelux.com/fr-be/product-care",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/region",
+      "source": "/region",
       "destination": "https://victoria-benelux.com/fr-be/region",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/regles-de-competition",
+      "source": "/regles-de-competition",
       "destination": "https://victoria-benelux.com/fr-be/regles-de-competition",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/responsabilite-sociale",
+      "source": "/responsabilite-sociale",
       "destination": "https://victoria-benelux.com/fr-be/responsabilite-sociale",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/sales",
+      "source": "/sales",
       "destination": "https://victoria-benelux.com/fr-be/sales",
       "statusCode": 301
     },
     {
-      "source": "https://victoria-bijoux.be/victoria-club",
+      "source": "/victoria-club",
       "destination": "club.victoria-benelux.com/fr-be/",
       "statusCode": 301
     },
